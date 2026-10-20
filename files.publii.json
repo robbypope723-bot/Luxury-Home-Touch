@@ -107,7 +107,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/index.html",
         "type": "file",
-        "md5": "7f31099ef907f5ec04f014c319283f57"
+        "md5": "64613fe18ac96949a8e6c0f2f7ded4f9"
     },
     {
         "path": "authors/villa-and-mansion-decor/page",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/villa-and-mansion-decor/page/2/index.html",
         "type": "file",
-        "md5": "9dec46ef891567933437eb7a2d52d120"
+        "md5": "5bc2c42060a5b488b6b102fc97d4001d"
     },
     {
         "path": "contact-us",
@@ -167,12 +167,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "d4afc9857a462c8f304b3a6fe50454c5"
+        "md5": "e17a229cdc8df78652d66900187b7be4"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "1cd816f5b7089333a74b9abc24eb2992"
+        "md5": "401c242b7eb0b84db4858fd9406f0c8a"
     },
     {
         "path": "high-ceiling-styling-elegant-ideas-for-creating-a-spacious-and-luxurious-home",
@@ -187,7 +187,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3f73a76b8061fbecc524c9339e5a613a"
+        "md5": "c64d2b2ffad42f99e4e25e5f53ed5794"
     },
     {
         "path": "italian-marble-tiles-timeless-elegance-for-beautiful-and-luxurious-interiors",
@@ -197,7 +197,7 @@
     {
         "path": "/italian-marble-tiles-timeless-elegance-for-beautiful-and-luxurious-interiors/index.html",
         "type": "file",
-        "md5": "9132ba995e9a0ea52c6e746df44e33c6"
+        "md5": "9dd8835ea578e833a4dd37662aa97691"
     },
     {
         "path": "media",
@@ -658,6 +658,81 @@
         "path": "/media/posts/15/responsive/images-66-xs.jpg",
         "type": "file",
         "md5": "88894c54cb0d6128e876b9bdbd56ec6b"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/images-2026-10-20T092303.249.jpg",
+        "type": "file",
+        "md5": "5c8c36bb77a43ae747bf726d64d994b5"
+    },
+    {
+        "path": "/media/posts/16/images-2026-10-20T092311.410.jpg",
+        "type": "file",
+        "md5": "53dbab5dda4c0e9ad312e0770fdb7389"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092303.249-lg.jpg",
+        "type": "file",
+        "md5": "5fed0b3829172b78e86c6ba9b8a8b4e8"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092303.249-md.jpg",
+        "type": "file",
+        "md5": "5fed0b3829172b78e86c6ba9b8a8b4e8"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092303.249-sm.jpg",
+        "type": "file",
+        "md5": "cece6069da6e22bd9c8b09cd7a6a9da1"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092303.249-xs.jpg",
+        "type": "file",
+        "md5": "bd25718fd2e448ac6df67dd0fb1a9782"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-2xl.jpg",
+        "type": "file",
+        "md5": "08aeb61e382ce63a686205aff679784d"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-lg.jpg",
+        "type": "file",
+        "md5": "08aeb61e382ce63a686205aff679784d"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-md.jpg",
+        "type": "file",
+        "md5": "08aeb61e382ce63a686205aff679784d"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-sm.jpg",
+        "type": "file",
+        "md5": "54f2553a552126d6a4b5eb041bc7abca"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-sm2.jpg",
+        "type": "file",
+        "md5": "138defe2a13f101a91920631da78c351"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-xl.jpg",
+        "type": "file",
+        "md5": "08aeb61e382ce63a686205aff679784d"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-10-20T092311.410-xs.jpg",
+        "type": "file",
+        "md5": "927b7c26248b19b6614d70efa2092470"
     },
     {
         "path": "media/posts/4",
@@ -1142,7 +1217,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "565d9531f04c7ed34de489b8885ee7cc"
+        "md5": "b188a8df5f614c4c854f7fadf8de7583"
     },
     {
         "path": "privacy-policy",
@@ -1162,12 +1237,22 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ed6862930fb88c69e01f6455017cfbcd"
+        "md5": "336ae8cb5607d8a43b7a002c616d2aa4"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "solid-oak-parquet-timeless-elegance-and-lasting-durability-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/solid-oak-parquet-timeless-elegance-and-lasting-durability-for-your-home/index.html",
+        "type": "file",
+        "md5": "b8acc46821a199ae9d0c2296d1fd4c1d"
     },
     {
         "path": "statement-wall-sconces-stylish-lighting-ideas-to-transform-your-interior",
@@ -1232,7 +1317,7 @@
     {
         "path": "/tags/flooring-and-parquet/index.html",
         "type": "file",
-        "md5": "e6b562a7d7b5f0dbcdc2e3885ec8a633"
+        "md5": "d0fd00b3992b5f594232e2f4b587f5f0"
     },
     {
         "path": "tags/grand-foyers",
@@ -1277,7 +1362,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "e79120b978537e1815a6e9e6a00ebe81"
+        "md5": "0a9fec3e309f16da6f36e01497a0687c"
     },
     {
         "path": "tags/italian-marble-tiles",
@@ -1317,7 +1402,7 @@
     {
         "path": "/tags/solid-oak-parquet/index.html",
         "type": "file",
-        "md5": "1cba703253d876e50d7f10922e4b10d4"
+        "md5": "cdd35d411db9fb8d05302045a1cf94b2"
     },
     {
         "path": "tags/statement-wall-sconces",
@@ -1397,6 +1482,6 @@
     {
         "path": "/vintage-artifacts-timeless-treasures-that-bring-history-into-your-home/index.html",
         "type": "file",
-        "md5": "3b1cca3d9ca9be136af3c5424cfb48e1"
+        "md5": "e8aa6ed2fea023c8d48be3759f6a21d2"
     }
 ]
